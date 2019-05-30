@@ -1,0 +1,114 @@
+/* Olivia Bocchetti
+* Due Date 
+* Innovative Women
+*/
+
+/* The universal selector */
+
+* {
+
+
+/* Body properties here */ 
+    margin: 0;
+    padding: 0;}
+
+body {
+    width: 95%;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;}
+
+#bessie{
+    height: 180px; 
+    width: 200px;
+    float: left;
+    margin: 15px;
+border-style: solid}
+
+header {
+    border-bottom: 2px solid #ef9c00;
+    text-align: center;
+    color:cornflowerblue;
+    background-color:darkgray}
+
+#sidebarA{ 
+    width: 20% ;
+    height: 590px;
+    float: left;
+    text-align: center;
+    border-right: 2px solid #ef9c00;
+    background-color: azure}
+
+main {
+    width:59%;
+    height:590px;
+    float: left; 
+    background-color: azure}
+
+#sidebarb {
+    width:20% ;
+    height:590px;
+    text-align: center;
+    float: right;
+    border-left: 2px solid #ef9c00;
+    background-color: azure}
+
+footer {
+    clear:both;
+    border-top: 2px solid #ef9c00;
+    color: cornflowerblue;
+    background-color:azure }
+
+#stamp
+    {height: 170px; 
+    width: 120px;
+    float: right;
+    margin: 10px;
+    border-style: solid}
+
+ul, li {
+    list-style-position: inside;}
+ 
+/* these hashtags are used for seperation with the paragraphs, borders, and pictures */
+    
+#quote{
+    padding:  0 10px;}
+  
+#bessiec{
+    padding: 0 10px;}
+#college{
+    padding: 0 10px}
+#aircraft{
+    padding: 0 10px}
+#license{
+    padding: 0 10px;}
+#pilot{
+    padding: 0 10px;}
+#show{
+    padding: 0 10px}
+#source1{
+    padding: 0 10px;}
+#source2{
+    padding: 0 10px;}
+#source3{
+    padding: 0 10px;}
+
+
+
+h1 { text-align: center;
+color:cornflowerblue; /* color for text */  }  
+ 
+h2{ margin:
+    5px;}
+
+h3 {color:cornflowerblue;
+    text-decoration: underline;
+            margin: 10px;}  
+
+h4{ margin:
+    5px;}
+
+
+
+
+
